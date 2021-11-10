@@ -2,4 +2,4 @@
 
 Docs [here](./docs)
 
-App "ConvertieMaMonnaieStp" [here](./src)
+App "ConvertisMaMonnaieStp" [here](./src)
