@@ -1,6 +1,6 @@
 ## Bienvenue sur "ConvertisMaMonnaieStp"
 
-On vous propose une surper application de conversion de devises !
+On vous propose une super application de conversion de devises !
 
 ### Comment ça marche ?
 
